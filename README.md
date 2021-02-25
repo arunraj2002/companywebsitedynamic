@@ -112,24 +112,24 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ## OUTPUT:
-![output](./static/img/output/o1.png)
+![output](./static/img/o1.png)
 
-![output](./static/img/output/o2.png)
+![output](./static/img/o2.png)
 
-![output](./static/img/output/o3.png)
+![output](./static/img/o3.png)
 
-![output](./static/img/output/o4.png)
+![output](./static/img/o4.png)
 
-![output](./static/img/output/o4.png)
+![output](./static/img/o5.png)
 
-![output](./static/img/output/o4.png)
+![output](./static/img/o6.png)
 
 ## CODE VALIDATION REPORT:
-![output](./static/img/report/v1.png)
+![output](./static/img/v1.png)
 
-![output](./static/img/report/v2.png)
+![output](./static/img/v2.png)
 
-![output](./static/img/report/v3.png)
+![output](./static/img/v3.png)
 
 
 ## RESULT:
